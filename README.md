@@ -1,13 +1,8 @@
 # Tennis Game
 
 This is a simple ping pong game written in JavaScript.
-You can try it for yourself at: https://markortleb.github.io/tennis-game/
+You can try it for yourself at: https://tennis.markortleb.com
 
-## How to host
-You can host this app by running the following:
-``` bash
-make host
-```
 
 ## Todo
 
