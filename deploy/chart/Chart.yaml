@@ -1,0 +1,4 @@
+apiVersion: v2
+name: tennis-game
+description: A Helm chart for deploying the Tennis Game website.
+version: 0.1.0
